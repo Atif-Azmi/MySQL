@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Atif-Azmi/MySQL/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Atif-Azmi/MySQL/tree/master/0078-subsets) |
 | [0704-binary-search](https://github.com/Atif-Azmi/MySQL/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/Atif-Azmi/MySQL/tree/master/0912-sort-an-array) |
 | [0980-unique-paths-iii](https://github.com/Atif-Azmi/MySQL/tree/master/0980-unique-paths-iii) |
 ## Backtracking
 |  |
@@ -38,4 +39,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Atif-Azmi/MySQL/tree/master/0374-guess-number-higher-or-lower) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Atif-Azmi/MySQL/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Atif-Azmi/MySQL/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Atif-Azmi/MySQL/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Atif-Azmi/MySQL/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Atif-Azmi/MySQL/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Atif-Azmi/MySQL/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Atif-Azmi/MySQL/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
