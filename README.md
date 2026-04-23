@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Atif-Azmi/MySQL/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Atif-Azmi/MySQL/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Atif-Azmi/MySQL/tree/master/0344-reverse-string) |
 ## Hash Table
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Atif-Azmi/MySQL/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Atif-Azmi/MySQL/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
